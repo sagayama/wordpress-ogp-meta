@@ -1,6 +1,3 @@
-# wordpress-ogp-meta
-WordPressのOGPとTwitterカード設定用コード
-
 # WordPress OGP & Twitter Card Meta Tags
 
 WordPressサイト用の **OGP（Open Graph Protocol）** と **Twitterカード** を自動出力するPHPサンプルです。  
@@ -26,23 +23,26 @@ WordPressサイト用の **OGP（Open Graph Protocol）** と **Twitterカード
 3. 必要に応じてTwitterアカウントを設定
 <meta name="twitter:site" content="@youraccount" />
 
+---
 
-## 🖼️ 推奨画像サイズ
+### 🖼️ 推奨画像サイズ
 | 用途         | サイズ        | 比率   |
 | ---------- | ---------- | ---- |
 | OGP画像      | 1200×630px | 16:9 |
 | Twitterカード | 1200×630px | 16:9 |
 
+---
 
-## 💬 ライセンス
+### 💬 ライセンス
 
 このコードは自由に利用・改変できます。
 商用利用もOKですが、再配布時はこのREADMEのクレジットを残してください。
 
+---
 
-## 👤 Author
+### 👤 Author
 
-Created by ご主人様
+Created by sagayama
 (WordPress Web Director / Designer)
 
 
