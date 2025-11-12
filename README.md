@@ -24,7 +24,6 @@ WordPressサイト用の **OGP（Open Graph Protocol）** と **Twitterカード
 
 
 3. 必要に応じてTwitterアカウントを設定
-```html
 <meta name="twitter:site" content="@youraccount" />
 
 
@@ -47,3 +46,4 @@ Created by ご主人様
 (WordPress Web Director / Designer)
 
 
+```html
